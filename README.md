@@ -53,7 +53,7 @@ Shopper/
 
 ⚡ Getting Started
 1️⃣ Clone the repo
-git clone https://github.com/kumar-sudhakar/shopper.git
+git clone https://github.com/kumar-sudhakar/Shopper-E-Commerce-Website
 cd shopper
 
 2️⃣ Install dependencies
